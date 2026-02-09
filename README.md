@@ -71,15 +71,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
 </div>
-###
+
 
 <h2 align="left">My Projects | Meus Projetos</h2>
 <p align="left">Acesse! | Check it out!</p>
-<p align="left">[GitHub.io](https://viniciuscaporiccicalca.github.io/ "GitHub.io")</p>
+<p align="left">https://viniciuscaporiccicalca.github.io/</p>
 
 <h2 align="left">My LinkedIn profile | Meu LinkedIn</h2>
 <p align="left">Acesse! | Check it out!</p>
-<p align="left">[LinkedIn](https://www.linkedin.com/in/viniciuscaporiccicalca/ "LinkedIn")</p>
+<p align="left">https://www.linkedin.com/in/viniciuscaporiccicalca/</p>
 
 ###
 
