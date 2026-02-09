@@ -1,23 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? | Olá! 👋 Como vai?</h1>
 
 ###
 
 <p align="left">My name is Vinicius, I am a Software Engineering student, and I work as a software developer at Unimake Software, here in Brazil.</p>
+<p align="left">Meu nome é Vinicius, sou estudante de Engenharia de Software e trabalho como desenvolvedor de software na Unimake Software, aqui no Brasil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me | Sobre Mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning React, Next.js, Typescript etc<br>🎯 Goals: My goal is to be an excellent software developer who masters the industry's top technologies.</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning React, Next.js, Typescript.<br>🎯 Goals: My goal is to be an excellent software developer who masters the industry's top technologies.</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estou aprendendo React, Next.js, Typescript.<br>🎯 Objetivos: Meu objetivo é ser um excelente desenvolvedor de software que domine as principais tecnologias do setor.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with  | Eu trabalho com</h2>
 
 ###
-
+<h2 align="left"> Javascript; Typescript; React; Next.js; HTML5; CSS3; TailwindCSS; Docker; Filezilla; Insomnia; Git; GitHub; NPM; VS Code; Visual Studio; APIRest; Eclipse, Windows, MacOS; Trello; Figma; Adobe Photoshop; Adobe Premiere; Avid Media Composer; Adobe Illustrator; Adobe After Effects; Autodesk Maya; Autodesk Flame; Behance</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,5 +71,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
 </div>
+###
+
+<h2 align="left">My Projects | Meus Projetos</h2>
+<p align="left">Acesse! | Check it out!</p>
+<p align="left">[GitHub.io](https://viniciuscaporiccicalca.github.io/ "GitHub.io")</p>
+
+<h2 align="left">My LinkedIn profile | Meu LinkedIn</h2>
+<p align="left">Acesse! | Check it out!</p>
+<p align="left">[LinkedIn](https://www.linkedin.com/in/viniciuscaporiccicalca/ "LinkedIn")</p>
+
+###
 
 ###
