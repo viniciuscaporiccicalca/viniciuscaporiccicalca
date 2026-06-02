@@ -1,8 +1,8 @@
 # Hey 👋 | Olá 👋
 
-I'm Vinicius — a Software Engineering student and Software Developer at Unimake Software, based in Brazil.
+I'm Vinicius — a Software Engineering student , based in Brazil.
 
-Sou Vinicius — estudante de Engenharia de Software e Desenvolvedor de Software na Unimake Software, no Brasil.
+Sou Vinicius — estudante de Engenharia de Software no Brasil.
 
 ---
 
